@@ -1,4 +1,4 @@
-# Intro to database system
+# Intro to Database Systems
 
 ## Description
 
